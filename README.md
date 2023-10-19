@@ -18,7 +18,7 @@ Obs: Após indicar o inicio do projeto é de boa prática e para uma melhor perf
 
     end program (nome do projeto)
 
-Obs: Não há necessidade de colocar o nome do projeto ao final, mas, é uma boa prática para saber qual o program que foi finalizado.
+Obs: Não há necessidade de colocar o nome do projeto ao final, mas, é uma boa prática para saber qual o programa que foi finalizado.
 
 
 ## Autor
